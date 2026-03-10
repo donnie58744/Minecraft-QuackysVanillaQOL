@@ -1,0 +1,27 @@
++-------------------------+-------+---------+-----------+
+| Material List for placement ''                        |
++-------------------------+-------+---------+-----------+
+| Item                    | Total | Missing | Available |
++-------------------------+-------+---------+-----------+
+| Mud                     |    40 |       0 |         0 |
+| Gray Concrete           |    32 |       0 |         0 |
+| Polished Deepslate      |    32 |      32 |         0 |
+| Gray Wool               |    24 |       0 |        12 |
+| Brown Terracotta        |    13 |       0 |        60 |
+| Block of Netherite      |     8 |       8 |         0 |
+| Cracked Deepslate Tiles |     8 |       8 |         0 |
+| Stripped Dark Oak Wood  |     8 |       8 |         0 |
+| Terracotta              |     8 |       0 |         6 |
+| Brown Wool              |     7 |       2 |         0 |
+| Gray Terracotta         |     7 |       5 |        54 |
+| Spruce Planks           |     6 |       0 |        58 |
+| Soul Sand               |     4 |       4 |         0 |
+| Brown Concrete          |     3 |       3 |         0 |
+| Mangrove Wood           |     3 |       3 |         0 |
+| Stripped Spruce Wood    |     3 |       3 |         0 |
+| Black Terracotta        |     1 |       1 |         0 |
+| Jungle Planks           |     1 |       1 |        51 |
+| Spruce Wood             |     1 |       1 |         0 |
++-------------------------+-------+---------+-----------+
+| Item                    | Total | Missing | Available |
++-------------------------+-------+---------+-----------+
