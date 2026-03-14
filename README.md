@@ -10,6 +10,9 @@ If you want Minecraft to be more immersive, less of a pain and running smoother;
 - Also includes BSL shaders as well as Primes HD Textures for better immersion
 - More realistic audio experience
 
+## Server Setup
+- Read This Simple Guide [Here](SERVER.md)
+
 ## Modlist
 
 ### Performance
