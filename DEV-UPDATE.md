@@ -14,7 +14,7 @@
 7. Export Modpack in Modrinth by hitting the three dots then `Export Modpack`
 8. Put the version number and write the patch notes in the description
 9. Goto [Quackys Vanilla QOL Versions](https://modrinth.com/modpack/donnie58744_quackysvanillaqol/versions) on Modrinth
-   1. Create a new version and upload the exported `.mrpack`
+   1. Create a new version and upload the exported `.mrpack` and the Server `.zip`
 10. Update [Modrinth README](https://modrinth.com/modpack/donnie58744_quackysvanillaqol)
 11. Upload `QuackysVanillaQOL-x.x.x.zip`, `QuackysVanillaQOL_Server-x.x.x.zip`, and `QuackysVanillaQOL-x.x.x.mrpack` to Github Release
 12. Create a new Github branch with the `{modpack version}-{minecraft version}`
