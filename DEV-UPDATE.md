@@ -17,4 +17,7 @@
    1. Create a new version and upload the exported `.mrpack`
 10. Update [Modrinth README](https://modrinth.com/modpack/donnie58744_quackysvanillaqol)
 11. Upload `QuackysVanillaQOL-x.x.x.zip`, `QuackysVanillaQOL_Server-x.x.x.zip`, and `QuackysVanillaQOL-x.x.x.mrpack` to Github Release
+12. Create a new Github branch with the `{modpack version}-{minecraft version}`
+13. Move all new folders and files to Github Repo and remove folder and files that were removed
+14. Push, Create PR, merge
 
