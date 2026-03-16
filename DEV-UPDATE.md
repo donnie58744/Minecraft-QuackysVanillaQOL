@@ -2,7 +2,7 @@
 2. Update **Client** and **Server** BCC modpack version number
    1. `bcc.json`
    2. `bcc-common.toml`
-3. Update `isxander-main-menu-credits.json` Modpack version number X2
+3. Update `isxander-main-menu-credits.json` Modpack version number **X2**
 4. Install Mods on a separate instance of the Modpack
    1. Verify if the mod works in Singleplayer
    2. Verify if the mod needs to be on Server if so install it
