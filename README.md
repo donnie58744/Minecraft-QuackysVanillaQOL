@@ -133,6 +133,7 @@ If you want Minecraft to be more immersive, less of a pain and running smoother;
 | ------------------------------------------------------------ | --------------- | ------------------------------------------------------------ |
 | [AppleSkin](https://modrinth.com/mod/appleskin)              | squeek502       | Adds various food-related HUD improvements. This is a mostly client-side mod, but it needs to be on the server in order to display accurate saturation/exhaustion values on the client. |
 | [Architectury API](https://modrinth.com/mod/architectury-api) | MaxNeedsSnacks  | Architectury API is an api to abstract calls to fabric api and forge api as both loader has different implementations of what can be perceived as the same thing. |
+|[Cardinal Components API](https://modrinth.com/mod/cardinal-components-api)|Up|A components API for Quilt and Fabric that is easy, modular, and extremely fast.
 | [Cloth Config API](https://modrinth.com/mod/cloth-config)    | shedaniel       | Cloth Config API is a config screen api.                     |
 | [CoroUtil](https://modrinth.com/mod/coroutil)                | Corosus         | This mod is a giant collection of common code used between all my mods. Its technically 4 forge mods at the moment, coroai, buildmod, configmod, and extendedrenderer combined. |
 |[Collective](https://modrinth.com/mod/collective)|Serilum|Collective is a shared library mod with common code for all of Serilum's mods.
