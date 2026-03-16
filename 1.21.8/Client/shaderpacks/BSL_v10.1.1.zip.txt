@@ -1,4 +1,0 @@
-#Tue Mar 10 11:57:00 MST 2026
-TAA=false
-shadowDistance=192.0
-shadowMapResolution=1536
