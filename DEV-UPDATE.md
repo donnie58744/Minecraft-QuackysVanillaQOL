@@ -12,7 +12,7 @@
    4. If Server side mods were added then log those mods here [SERVER.md](SERVER.md)
 5. Create a new Github branch with the `{modpack version}-{minecraft version}`
 6. Update files in Github repo to reflect the changes made from above.
-   1. Double check `mods/`,`config/`,`resourcepacks`, `shaderpacks/` that any added or removed file was reflected
+   1. Double check `mods/`,`config/`,`resourcepacks/`, `shaderpacks/` that any added or removed file was reflected
 
 7. Zip up the following folders for **Client** `config/`,`mods/`,`resourcepacks/`,`shaderpacks/` name it the following `QuackysVanillaQOL-x.x.x.zip`
 8. Zip up the following folders for **Server** `config/`,`mods/` name it the following `QuackysVanillaQOL_Server-x.x.x.zip`
