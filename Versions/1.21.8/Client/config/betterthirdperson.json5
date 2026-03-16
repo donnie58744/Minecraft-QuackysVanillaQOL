@@ -6,7 +6,7 @@
 	// Angle in degrees within the player will slightly follow camera yaw (while standing still)
 	"followYaw": 45,
 	// Does camera should rotate freely during elytra flight
-	"freeCameraDuringElytraFlight": false,
+	"freeCameraDuringElytraFlight": true,
 	// Completely remove third-person front view
 	"skipThirdPersonFrontView": false,
 	// How fast player changes movement direction in third-person

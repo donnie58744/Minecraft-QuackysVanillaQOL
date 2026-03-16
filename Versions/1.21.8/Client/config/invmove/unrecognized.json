@@ -55,11 +55,22 @@
     "fi.dy.masa.litematica.gui.GuiSubRegionConfiguration": true,
     "fi.dy.masa.litematica.gui.GuiMaterialList": true,
     "fi.dy.masa.litematica.gui.GuiSchematicSaveImported": true,
-    "xaero.common.gui.GuiTransfer": true
+    "xaero.common.gui.GuiTransfer": true,
+    "betteradvancements.common.gui.BetterAdvancementsScreen": true,
+    "net.minecraft.class_8898": true,
+    "eu.ha3.presencefootsteps.PFOptionsScreen": true,
+    "io.wispforest.accessories.compat.config.client.ExtendedConfigScreen": true,
+    "io.socol.bundleinventory.inventory.BundleInventoryScreen": true,
+    "com.tiviacz.travelersbackpack.client.screens.BackpackScreen": true,
+    "com.tiviacz.travelersbackpack.client.screens.BackpackSettingsScreen": true
   },
   "hideBackground": {
     "net.minecraft.class_5522": true,
     "com.supermartijn642.core.gui.WidgetScreen": true,
-    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
+    "net.minecraft.class_8898": true,
+    "io.socol.bundleinventory.inventory.BundleInventoryScreen": true,
+    "com.tiviacz.travelersbackpack.client.screens.BackpackScreen": true,
+    "com.tiviacz.travelersbackpack.client.screens.BackpackSettingsScreen": true
   }
 }

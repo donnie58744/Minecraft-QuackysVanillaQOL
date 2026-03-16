@@ -1,22 +1,10 @@
 {
 	"favorites": [
-		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:gray_concrete_powder\"}},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:arrow\"}},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:jungle_log\"}},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{type:\"minecraft:item\",value:{components:{\"minecraft:damage\":2,\"minecraft:enchantments\":{\"minecraft:impaling\":5,\"minecraft:mending\":1,\"minecraft:riptide\":3,\"minecraft:unbreaking\":3},\"minecraft:repair_cost\":7},count:1,id:\"minecraft:trident\"}},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{type:\"minecraft:item\",value:{components:{\"minecraft:container\":[{item:{count:22,id:\"minecraft:cobblestone_wall\"},slot:0},{item:{count:64,id:\"minecraft:cobblestone_slab\"},slot:1},{item:{count:1,id:\"minecraft:cobblestone_stairs\"},slot:2},{item:{count:13,id:\"minecraft:cobblestone_slab\"},slot:3},{item:{count:12,id:\"minecraft:sand\"},slot:4},{item:{count:10,id:\"minecraft:dark_oak_planks\"},slot:5},{item:{count:41,id:\"minecraft:jungle_log\"},slot:6},{item:{count:64,id:\"minecraft:soul_sand\"},slot:7},{item:{count:27,id:\"minecraft:brown_wool\"},slot:8},{item:{count:7,id:\"minecraft:green_terracotta\"},slot:9},{item:{count:53,id:\"minecraft:terracotta\"},slot:10},{item:{count:49,id:\"minecraft:oak_log\"},slot:11},{item:{count:32,id:\"minecraft:gray_concrete_powder\"},slot:12},{item:{count:61,id:\"minecraft:black_concrete_powder\"},slot:13},{item:{count:31,id:\"minecraft:dirt\"},slot:14},{item:{count:64,id:\"minecraft:white_wool\"},slot:15},{item:{count:59,id:\"minecraft:coal_block\"},slot:16},{item:{count:60,id:\"minecraft:soul_soil\"},slot:17},{item:{count:60,id:\"minecraft:blackstone\"},slot:18},{item:{count:10,id:\"minecraft:black_terracotta\"},slot:19},{item:{count:55,id:\"minecraft:brown_terracotta\"},slot:20},{item:{count:8,id:\"minecraft:gray_terracotta\"},slot:21},{item:{count:44,id:\"minecraft:dark_oak_log\"},slot:22},{item:{count:60,id:\"minecraft:spruce_log\"},slot:23},{item:{count:32,id:\"minecraft:brown_concrete_powder\"},slot:24},{item:{count:33,id:\"minecraft:mangrove_log\"},slot:25}]},count:1,id:\"minecraft:shulker_box\"}},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:black_concrete_powder\"}},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:spyglass\"}},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:black_terracotta\"}},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:blackstone\"}},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:deepslate_tiles\"}},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:cobblestone\"}},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:deepslate\"}},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:gray_terracotta\"}},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:cooked_beef\"}},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:oak_log\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:nether_wart\"}},type:\"roughlyenoughitems:entry_stack\"}",
 		"{data:{type:\"minecraft:item\",value:{components:{\"minecraft:fireworks\":{flight_duration:3b}},count:1,id:\"minecraft:firework_rocket\"}},type:\"roughlyenoughitems:entry_stack\"}",
-		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:birch_log\"}},type:\"roughlyenoughitems:entry_stack\"}"
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:purple_terracotta\"}},type:\"roughlyenoughitems:entry_stack\"}",
+		"{mode:\"CREATIVE\",type:\"roughlyenoughitems:gamemode\"}",
+		"{data:{type:\"minecraft:item\",value:{count:1,id:\"minecraft:pale_hanging_moss\"}},type:\"roughlyenoughitems:entry_stack\"}"
 	],
 	"hiddenFavorites": [],
 	"displays": []
