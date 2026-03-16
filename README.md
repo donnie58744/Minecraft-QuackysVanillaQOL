@@ -11,7 +11,7 @@ If you want Minecraft to be more immersive, less of a pain and running smoother;
 - More realistic audio experience
 
 ## Server Setup
-- Read This Simple Guide [Here](SERVER.md)
+- Read This Simple Guide [Here](https://github.com/donnie58744/Minecraft-QuackysVanillaQOL/blob/606873aa36349f7901dd10181135b73ae8a1a19c/SERVER.md)
 
 ## Modlist
 
