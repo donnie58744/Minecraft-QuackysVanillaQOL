@@ -8,7 +8,7 @@
    2. Verify if the mod needs to be on Server if so install it
       1. Verify the mod works on Server
    3. If Client side mods were added then log those mods here [README.md](README.md)
-      1. If a Client side mode options were changed then add that config to `config/yosbr/config`
+      1. If a Client side mod options were changed then add that config to `config/yosbr/config` **Not Including `bcc.json` and `bcc-common.toml`**
    4. If Server side mods were added then log those mods here [SERVER.md](SERVER.md)
 5. Create a new Github branch with the `{modpack version}-{minecraft version}`
 6. Update files in Github repo to reflect the changes made from above.
