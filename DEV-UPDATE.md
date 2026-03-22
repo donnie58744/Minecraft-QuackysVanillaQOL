@@ -13,14 +13,14 @@
 5. Create a new Github branch with the `{modpack version}-{minecraft version}`
 6. Update files in Github repo to reflect the changes made from above.
    1. Double check `mods/`,`config/`,`resourcepacks/`, `shaderpacks/` that any added or removed file was reflected
-
-7. Zip up the following folders for **Client** `config/`,`mods/`,`resourcepacks/`,`shaderpacks/` name it the following `QuackysVanillaQOL-x.x.x.zip`
-8. Zip up the following folders for **Server** `config/`,`mods/` name it the following `QuackysVanillaQOL_Server-x.x.x.zip`
-9. Export Modpack in Modrinth by hitting the three dots then `Export Modpack`
-10. Put the version number and write the patch notes in the description
-11. Goto [Quackys Vanilla QOL Versions](https://modrinth.com/modpack/donnie58744_quackysvanillaqol/versions) on Modrinth
-    1. Create a new version and upload the exported `.mrpack` and the Server `.zip`
-12. Update [Modrinth README](https://modrinth.com/modpack/donnie58744_quackysvanillaqol)
-13. Upload `QuackysVanillaQOL-x.x.x.zip`, `QuackysVanillaQOL_Server-x.x.x.zip`, and `QuackysVanillaQOL-x.x.x.mrpack` to Github Release
-14. Push, Create PR, merge
+   2. Zip up the following folders for **Client** from **Github repo** `config/`,`mods/`,`resourcepacks/`,`shaderpacks/` name it the following `QuackysVanillaQOL-x.x.x.zip`
+   3. Zip up the following folders for **Server** from **Github repo** `config/`,`mods/` name it the following `QuackysVanillaQOL_Server-x.x.x.zip`
+   
+7. Export Modpack in Modrinth by hitting the three dots then `Export Modpack`
+8. Put the version number and write the patch notes in the description
+9. Goto [Quackys Vanilla QOL Versions](https://modrinth.com/modpack/donnie58744_quackysvanillaqol/versions) on Modrinth
+   1. Create a new version and upload the exported `.mrpack` and the Server `.zip`
+10. Update [Modrinth README](https://modrinth.com/modpack/donnie58744_quackysvanillaqol)
+11. Upload `QuackysVanillaQOL-x.x.x.zip`, `QuackysVanillaQOL_Server-x.x.x.zip`, and `QuackysVanillaQOL-x.x.x.mrpack` to Github Release
+12. Push, Create PR, merge
 
