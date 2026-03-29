@@ -1,0 +1,32 @@
+{
+  "main_menu": {
+    "top_left": [],
+    "top_right": [],
+    "bottom_left": [],
+    "bottom_right": [{
+        "text": "Quackys Vanilla QOL 1.0.5",
+        "color": "white",
+        "underlined": true,
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://modrinth.com/modpack/donnie58744_quackysvanillaqol/version/1.0.5"
+        }
+      }],
+    "mod_blacklist": []
+  },
+  "pause_menu": {
+    "top_left": [],
+    "top_right": [],
+    "bottom_left": [],
+    "bottom_right": [{
+        "text": "Quackys Vanilla QOL 1.0.5",
+        "color": "white",
+        "underlined": true,
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://modrinth.com/modpack/donnie58744_quackysvanillaqol/version/1.0.5"
+        }
+      }],
+    "mod_blacklist": []
+  }
+}
