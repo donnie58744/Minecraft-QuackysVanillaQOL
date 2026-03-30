@@ -25,7 +25,7 @@
 	"screenOptions": {
 		"keybindIgnoresOtherTargets": false,
 		"backButtonClosesScreen": false,
-		"showUnusedSlots": false,
+		"showUnusedSlots": true,
 		"allowSlotScrolling": true,
 		"menuButtonInjections": [
 			{
