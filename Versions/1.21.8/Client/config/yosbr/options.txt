@@ -203,10 +203,10 @@ key_iris.keybind.reload:key.keyboard.f9
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_iris.keybind.wireframe:key.keyboard.unknown
-soundCategory_master:0.16972009519867542
-soundCategory_music:0.11267605633802817
+soundCategory_master:1.0
+soundCategory_music:1.0
 soundCategory_record:1.0
-soundCategory_weather:0.23879291373239453
+soundCategory_weather:1.0
 soundCategory_block:1.0
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
