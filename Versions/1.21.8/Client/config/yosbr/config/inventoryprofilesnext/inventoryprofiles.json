@@ -1,0 +1,10 @@
+{
+    "ModSettings": {
+        "first_run": false
+    },
+    "AutoRefillSettings": {
+        "visual_replace_failed_notification": {
+            "value": false
+        }
+    }
+}
