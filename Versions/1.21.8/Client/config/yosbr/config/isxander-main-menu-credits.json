@@ -9,7 +9,7 @@
         "underlined": true,
         "clickEvent": {
           "action": "open_url",
-          "value": "https://modrinth.com/modpack/donnie58744_quackysvanillaqol/version/1.1.6"
+          "value": "https://modrinth.com/modpack/donnie58744_quackysvanillaqol/version/1.1.7"
         }
       }],
     "mod_blacklist": []
@@ -24,7 +24,7 @@
         "underlined": true,
         "clickEvent": {
           "action": "open_url",
-          "value": "https://modrinth.com/modpack/donnie58744_quackysvanillaqol/version/1.1.6"
+          "value": "https://modrinth.com/modpack/donnie58744_quackysvanillaqol/version/1.1.7"
         }
       }],
     "mod_blacklist": []
