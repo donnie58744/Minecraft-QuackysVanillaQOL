@@ -170,7 +170,7 @@
     "useFontShadow": false,
     "useTextBackground": true,
     "mainRenderingToggle": {
-      "enabled": false,
+      "enabled": true,
       "hotkey": {
         "keys": "F7"
       }
@@ -196,7 +196,7 @@
     "lightLevelMarkers": "square",
     "lightLevelNumberCondition": "always",
     "lightLevelNumbers": "block",
-    "hudAlignment": "top_left",
+    "hudAlignment": "top_right",
     "biomeOverlayRange": 4,
     "biomeOverlayRangeVertical": 0,
     "blockPosFormat": "Block: %d, %d, %d",
@@ -498,7 +498,7 @@
     "overlayBiomeBorder": false,
     "overlayBlockGrid": false,
     "overlayConduitRange": false,
-    "overlayLightLevel": true,
+    "overlayLightLevel": false,
     "overlayRandomTicksFixed": false,
     "overlayRandomTicksPlayer": false,
     "overlayRegionFile": false,
@@ -549,7 +549,7 @@
       "keys": ""
     },
     "overlayLightLevel": {
-      "keys": ""
+      "keys": "F9"
     },
     "overlayRandomTicksFixed": {
       "keys": ""
