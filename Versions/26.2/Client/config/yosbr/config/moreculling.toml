@@ -1,7 +1,6 @@
 version = 1
 enableSodiumMenu = true
 dontCull = []
-cloudCulling = true
 signTextCulling = true
 rainCulling = true
 useBlockStateCulling = true
@@ -16,8 +15,11 @@ leavesCullingMode = "DEFAULT"
 leavesCullingAmount = 2
 includeMangroveRoots = false
 endGatewayCulling = false
-beaconBeamCulling = true
 useOnModdedBlocksByDefault = true
 
 [modCompatibility]
+travelersbackpack = true
+universal_graves = true
+chunkloaders = true
+visualworkbench = true
 minecraft = true
