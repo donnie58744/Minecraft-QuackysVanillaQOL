@@ -1,0 +1,11 @@
+{
+	"//": "These settings are easier to change in-game! Mod List -> Dismount Entity -> Config",
+	"Enable Dismount Entity": {
+		"//": "Whether Dismount Entity is enabled. When disabled, none of its features run and its other settings are hidden. Takes effect after a restart.",
+		"value": true
+	},
+	"beAbleToDismountOtherPlayers": {
+		"//": "Whether players can dismount other players from their vehicle.",
+		"value": false
+	}
+}
